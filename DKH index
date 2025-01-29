@@ -27,7 +27,10 @@
             <p>How to execute in github.</p>
             <a href="https://github.com/dilip-iitm/project2" target="_blank">View on GitHub</a>
         </div>
-        <p>Contact me at: 21f1003475@ds.study.iitm.ac.in</p>
+        <p>Contact me at: <span id="email"></span></p>
+<script>
+    document.getElementById("email").textContent = "21f1003475@ds.study.iitm.ac.in";
+</script>
     </div>
 </body>
 </html>
