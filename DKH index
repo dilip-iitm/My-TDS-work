@@ -21,14 +21,7 @@
             <p>A description of my first project.</p>
             <a href="https://github.com/dilip-iitm/project1" target="_blank">View on GitHub</a>
         </div>
-
-        <div class="project">
-            <h3>Project 2</h3>
-            <p>A description of my second project.</p>
-            <a href="https://github.com/dilip-iitm/project2" target="_blank">View on GitHub</a>
-        </div>
-
-        <h2>Contact</h2>
+<h2>Contact</h2>
         <p>Contact me at: <!--email_off-->21f1003475@ds.study.iitm.ac.in<!--/email_off--></p>
     </div>
 </body>
